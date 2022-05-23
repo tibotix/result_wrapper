@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+dist/
+build/
+result_wrapper.egg-info/
+*.pyc
