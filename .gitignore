@@ -6,3 +6,4 @@ result_wrapper.egg-info/
 *.pyc
 .tox/
 .coverage
+coverage.xml
